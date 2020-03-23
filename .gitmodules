@@ -1,0 +1,4 @@
+[submodule "themes/liva"]
+	path = themes/liva
+	url = git@github.com:koukitsuji/liva-hugo.git
+	branch = develop
