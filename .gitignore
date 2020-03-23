@@ -1,0 +1,17 @@
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
+
+# Others
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
+
+# Others
+.DS_Store
