@@ -56,25 +56,23 @@ hasCJKLanguage = true
   URL = "https://kouki.io"
   weight = 1
 
-  [[menu.main]]
-  name = "Post"
-  URL = "blog"
-  weight = 2
-
   # footer menu
   [[menu.footer]]
-  name = "About"
-  URL = "about"
+  name = "Home"
+  URL = ""
+  pre = "<i class='ti-home'></i>"
   weight = 1
 
   [[menu.footer]]
-  name = "Post"
-  URL = "blog"
+  name = "About"
+  URL = "https://kouki.io"
+  pre = "<i class='ti-user'></i>"
   weight = 2
 
   [[menu.footer]]
   name = "Contact"
-  URL = "contact"
+  URL = "https://twitter.com/kouki_tsuji"
+  pre = "<i class='ti-email'></i>"
   weight = 3
 
 
@@ -88,9 +86,9 @@ author = "辻幸喜 / Kouki Tsuji"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+#mobile = "0124857985320"
+#email = "demo@email.com"
+#location = "Dhaka, Bangladedsh"
 # copyright
 copyright = "| copyright &copy; 2020 [Kouki](https://kouki.io) |"
 
@@ -111,26 +109,31 @@ content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
 
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/kouki_tsuji"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/koukitsuji"
 
 [[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/kouki.tsuji.626"
+
+[[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/kouki_tsuji/"
+
+#[[params.social]]
+#title = "linkedin"
+#icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+#link = "#"
+
+[[params.social]]
+title = "qiita"
+icon = "" # themify icon : https://themify.me/themify-icons
+link = "https://qiita.com/kouki_tsuji"
