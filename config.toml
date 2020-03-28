@@ -80,6 +80,7 @@ hasCJKLanguage = true
 [params]
 logo = "images/logo.png"
 home = "Home"
+portfolio = "https://kouki.io/"
 # Meta data
 description = "This is meta description"
 author = "辻幸喜 / Kouki Tsuji"
@@ -133,7 +134,7 @@ link = "https://www.instagram.com/kouki_tsuji/"
 #icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 #link = "#"
 
-[[params.social]]
-title = "qiita"
-icon = "" # themify icon : https://themify.me/themify-icons
-link = "https://qiita.com/kouki_tsuji"
+#[[params.social]]
+#title = "qiita"
+#icon = "ti-ink-pen" # themify icon : https://themify.me/themify-icons
+#link = "https://qiita.com/kouki_tsuji"
