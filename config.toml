@@ -2,12 +2,17 @@
 baseURL = "https://blog.kouki.io"
 languageCode = "en-us"
 title = "Kouki's blog"
-theme = "liva"
-summaryLength = "10"
+theme = "liva-tmp"
+summaryLength = "100"
 paginate = 6
 disqusShortname = ""
 pygmentsUseClasses = true
 pygmentsCodefences = true
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+
+[permalinks]
+  blog = "/:year/:month/:slug/"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
