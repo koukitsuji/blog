@@ -12,7 +12,7 @@ defaultContentLanguage = "ja"
 hasCJKLanguage = true
 
 [permalinks]
-  blog = "/:year/:month/:slug/"
+  post = "/:year/:month/:slug/"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -29,6 +29,8 @@ hasCJKLanguage = true
   URL = "plugins/themify-icons/themify-icons.css"
   [[params.plugins.css]]
   URL = "plugins/venobox/venobox.css"
+  [[params.plugins.css]]
+  URL = "plugins/fontawesome/css/all.min.css"
 
   # JS Plugins
   [[params.plugins.js]]
@@ -92,6 +94,7 @@ googleAnalitycsID = "Your ID"
 #location = "Dhaka, Bangladedsh"
 # copyright
 copyright = "| copyright &copy; 2020 [Kouki](https://kouki.io) |"
+twitterID = "kouki_tsuji"
 
   # Preloader
   [params.preloader]
