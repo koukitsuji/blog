@@ -17,6 +17,14 @@ hasCJKLanguage = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[marketing]
+  google_analytics = ""
+  google_tag_manager = "GTM-57L8VGF"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
 ############################# Plugins ##############################
 [params.plugins]
 
@@ -93,7 +101,7 @@ googleAnalitycsID = "Your ID"
 #email = "demo@email.com"
 #location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| copyright &copy; 2020 [Kouki](https://kouki.io) |"
+copyright = "&copy; 2020 [Kouki Tsuji](https://kouki.io)"
 twitterID = "kouki_tsuji"
 
   # Preloader
