@@ -17,10 +17,6 @@ hasCJKLanguage = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[marketing]
-  google_analytics = ""
-  google_tag_manager = "GTM-57L8VGF"
-
 [taxonomies]
     tag = "tags"
     category = "categories"
@@ -112,6 +108,10 @@ twitterID = "kouki_tsuji"
   # search
   [params.search]
   enable = true
+
+  [params.marketing]
+    google_analytics = ""
+    google_tag_manager = "GTM-57L8VGF"
 
 ############################ news letter ########################
 [params.newsletter]
