@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://blog.kouki.io"
-languageCode = "en-us"
+languageCode = "ja"
 title = "Kouki's blog"
 theme = "liva"
 summaryLength = "100"
@@ -18,8 +18,8 @@ hasCJKLanguage = true
   home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
-    tag = "tags"
-    category = "categories"
+  tag = "tags"
+  category = "categories"
 
 ############################# Plugins ##############################
 [params.plugins]
@@ -84,11 +84,11 @@ hasCJKLanguage = true
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "imgs/logo.png"
 home = "Home"
 portfolio = "https://kouki.io/"
 # Meta data
-description = "This is meta description"
+description = "Koukiのブログです。"
 author = "辻幸喜 / Kouki Tsuji"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
