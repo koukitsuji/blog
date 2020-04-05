@@ -2,7 +2,7 @@
 baseURL = "https://blog.kouki.io"
 languageCode = "en-us"
 title = "Kouki's blog"
-theme = "liva-tmp"
+theme = "liva"
 summaryLength = "100"
 paginate = 6
 disqusShortname = ""
