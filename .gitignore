@@ -15,6 +15,7 @@ public/
 
 # Others
 .DS_Store
+themes/liva-tmp/
 
 ### Firebase ###
 .idea
