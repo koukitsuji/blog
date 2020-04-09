@@ -12,7 +12,7 @@ defaultContentLanguage = "ja"
 hasCJKLanguage = true
 
 [permalinks]
-  post = "/:year/:month/:slug/"
+  post = "/:year/:month/:day/:slug/"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
