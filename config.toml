@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://blog.kouki.io"
 languageCode = "ja"
-title = "Kouki's blog"
+title = "Kouki's Blog"
 theme = "liva"
 summaryLength = "100"
 paginate = 6
@@ -12,7 +12,7 @@ defaultContentLanguage = "ja"
 hasCJKLanguage = true
 
 [permalinks]
-  post = "/:year/:month/:day/:slug/"
+  post = "/:year/:month/:slug/"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
