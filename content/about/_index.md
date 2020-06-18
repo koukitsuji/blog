@@ -13,6 +13,5 @@ description: "this is meta description"
 type : "about"
 ---
 
-テスト
-
-投稿
+信号処理エンジニアです。
+ポートフォリオサイトは以下のリンクより。
