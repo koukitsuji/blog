@@ -1,9 +1,9 @@
 ---
 title: "MacBook Pro Mid 2012のメモリを16GBへ増設"
 date: 2019-10-04T19:15:14+09:00
-update: 2020-04-10T19:15:14+09:00
-slug: macbook-memory-expansion
-draft: true
+update: 2020-06-30T19:15:14+09:00
+slug: macbook-memory
+draft: false
 
 # post thumb
 image: "1.jpg"
