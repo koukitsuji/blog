@@ -2,7 +2,7 @@
 title: "MacBook Pro Mid 2012をSSD換装"
 date: 2019-10-04T23:04:18+09:00
 update: 2020-04-11T23:04:18+09:00
-slug: macbook-ssd-replacement
+slug: macbook-ssd
 draft: true
 
 # post thumb
