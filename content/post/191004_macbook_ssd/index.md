@@ -3,7 +3,7 @@ title: "MacBook Pro Mid 2012をSSD換装"
 date: 2019-10-04T23:04:18+09:00
 update: 2020-04-11T23:04:18+09:00
 slug: macbook-ssd
-draft: true
+draft: false
 
 # post thumb
 image: "1.jpg"
@@ -27,7 +27,7 @@ Macふっかつ計画パート２です。
 
 前回のメモリ増設はこちら。
 
-// FIXME
+→ [MacBook Pro Mid 2012のメモリを16GBへ増設](https://blog.kouki.io/2019/10/macbook-memory/)
 
 ``MacBook Pro Mid 2012 (13インチ)``のストレージはHDDですので、SSD換装が最もパフォーマンスへのインパクトの大きい改善になります。
 

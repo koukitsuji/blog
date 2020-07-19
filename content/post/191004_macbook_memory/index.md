@@ -112,7 +112,7 @@ Macのパフォーマンス改善のため、以下の2つを行いました。
 
 続けてSSD換装です！次回に続く。
 
-// FIXME
+→ [MacBook Pro Mid 2012をSSD換装](https://blog.kouki.io/2019/10/macbook-ssd/)
 
 
 
