@@ -2,7 +2,7 @@
 title: "ブログをHugo+Firebase Hosting+カスタムドメインで構成"
 date: 2020-05-31T00:38:23+09:00
 slug: firebase
-draft: false
+draft: true
 
 # post thumb
 image: "1.jpg"
@@ -119,7 +119,7 @@ $ firebase init
 
 
 
-Hugoは配信用のコンテンツは``public`` フォルダへ出力されます。したがって、FirebaseのPublishフォルダはデフォルトのpublicを指定します。
+Hugoは配信用のコンテンツは``public``フォルダへ出力されます。したがって、FirebaseのPublishフォルダはデフォルトのpublicを指定します。
 
 ```bash
 ? What do you want to use as your public directory? (public)
@@ -141,7 +141,7 @@ index.htlmファイルの上書きはNoで
 
 
 
-以下のコマンドでHugoプロジェクトをビルドします。結果は``public`` フォルダへ出力されます。
+以下のコマンドでHugoプロジェクトをビルドします。結果は``public``フォルダへ出力されます。
 
 ```bash
 $ hugo
@@ -170,7 +170,7 @@ $ firebase deploy
 
 
 
-実行結果として ``Hosting URL`` がプリントされるので、ブラウザでこのリンクへアクセスします。無事に表示されると、Firebase Hostingで自身のWebサイトが公開されていることを確認できます。
+実行結果として``Hosting URL``がプリントされるので、ブラウザでこのリンクへアクセスします。無事に表示されると、Firebase Hostingで自身のWebサイトが公開されていることを確認できます。
 
 ![1](1.jpg)
 
